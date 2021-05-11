@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: 100%;
+    /* width: 100%; */
+    background-color: rgb(111, 0, 255);
+    position: relative;
+    /* overflow: hidden; */
+}
+.box{
+    position: absolute;
+    height: 30px;
+    width: 130px;
+    background-color: red;
+    align-items:center;
+    cursor: pointer;
+    top: 10px;
+    right: 50%;
+    
+}
+/* #b1{
+	background-color: tomato;
+    top: 1px;
+    right: 1000px;
+}
+#b2{
+    top: 1px;
+    right: 50px;
+}
+#b3{
+    top: 1px;
+    right: 50px;
+}
+#b4{
+    top: 1px;
+    right: 50px;
+}
+#b5{
+    top: 1px;
+    right: 50px;
+} */
